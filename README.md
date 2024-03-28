@@ -1,3 +1,4 @@
+
 This project aims to predict customer churn in the telecom industry using data science techniques. By analyzing historical data and customer behavior patterns, we'll develop a model to forecast which customers are likely to churn in the future.
 
 ##Dataset
